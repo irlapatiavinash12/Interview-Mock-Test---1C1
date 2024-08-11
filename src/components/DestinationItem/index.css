@@ -1,0 +1,26 @@
+.list-item-styling {
+  list-style-type: none;
+  flex-direction: column;
+  width: 48%;
+  margin: 10px;
+}
+
+.thumbnail-styling {
+  height: 300px;
+  width: 100%;
+}
+
+.destination-title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 22px;
+  margin-left: 10px;
+}
+
+.description-styling {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: 400;
+  margin-left: 10px;
+}
